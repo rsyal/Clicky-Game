@@ -1,0 +1,19 @@
+.score {
+  color: black;
+
+}
+
+.gameScore {
+  padding: 1px;
+  background-size: 100%;
+  color: navy;
+}
+
+.gameScore .message {
+  color: red;
+}
+
+
+.italicStyle {
+  font-style: italic;
+}
